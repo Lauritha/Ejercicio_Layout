@@ -1,1 +1,27 @@
-/* Ingresa tu css aqui */
+.container {
+	text-align: center;
+}
+#logo {
+	position: relative;
+	bottom: 50%;
+	margin-top: 3%;
+
+}
+.menu {
+	border: 2px solid black;
+	position: relative;
+	right: -620px;
+	margin: 5%;
+	text-align: center;
+	width: 600px;
+	height: 60px;
+}
+li {
+	display: inline-block;
+
+}
+menu ul li a {
+	font-family: Arial;
+	color: black;
+	text-align: center;
+}
